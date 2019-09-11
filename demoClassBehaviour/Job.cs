@@ -40,7 +40,7 @@ namespace demoClassBehaviour
                 Name = "Java Developer",
                 Employer = "Obstacle",
                 Location = "Redwood City",
-                PositionType = "Black end developer",
+                PositionType = "Back end developer",
                 CoreCompentency = "Java"
             });
 
@@ -49,7 +49,7 @@ namespace demoClassBehaviour
                 Name = "Junior C# Developer",
                 Employer = "Dnl-Core",
                 Location = "Waarder",
-                PositionType = "Full stick developer",
+                PositionType = "Fully stuck developer",
                 CoreCompentency = "C#, ASP.NET"
             });
 
