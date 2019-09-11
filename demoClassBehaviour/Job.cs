@@ -40,7 +40,7 @@ namespace demoClassBehaviour
                 Name = "Java Developer",
                 Employer = "Obstacle",
                 Location = "Redwood City",
-                PositionType = "Back end developer",
+                PositionType = "Black end developer",
                 CoreCompentency = "Java"
             });
 
