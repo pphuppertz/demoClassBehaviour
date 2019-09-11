@@ -55,7 +55,7 @@ namespace demoClassBehaviour
 
             result.Add(new Job
             {
-                Name = "Objective C developer",
+                Name = "Objective C hacker",
                 Employer = "Apple",
                 Location = "Cupertino",
                 PositionType = "Short stick developer",
