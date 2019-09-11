@@ -49,7 +49,7 @@ namespace demoClassBehaviour
                 Name = "Junior C# Developer",
                 Employer = "Dnl-Core",
                 Location = "Waarder",
-                PositionType = "Full stock developer",
+                PositionType = "Full stick developer",
                 CoreCompentency = "C#, ASP.NET"
             });
 
