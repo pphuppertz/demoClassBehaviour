@@ -58,7 +58,7 @@ namespace demoClassBehaviour
                 Name = "Objective C hacker",
                 Employer = "Apple",
                 Location = "Cupertino",
-                PositionType = "Full stack developer",
+                PositionType = "Short stick developer",
                 CoreCompentency = "Objective C"
             });
 
