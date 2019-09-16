@@ -9,7 +9,7 @@ namespace demoClassBehaviour
         {
             List<Job> jobs = Job.CreateJobList();
 
-            PrintCompactJobList(jobs);
+            PrintJobList(jobs);
             
 
         }
