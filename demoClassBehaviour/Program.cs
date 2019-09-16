@@ -9,7 +9,7 @@ namespace demoClassBehaviour
         {
             List<Job> jobs = Job.CreateJobList();
 
-            PrintJobList(jobs);
+            PrintCompactJobList(jobs);
             
 
         }
@@ -26,7 +26,7 @@ namespace demoClassBehaviour
         {
             foreach (Job job in jobList)
             {
-                Console.WriteLine("☺ - " + job.ToString());
+                Console.WriteLine("☺ : " + job.ToString());
             }
         }
     }
