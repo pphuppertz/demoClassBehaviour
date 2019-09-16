@@ -26,7 +26,7 @@ namespace demoClassBehaviour
         {
             foreach (Job job in jobList)
             {
-                Console.WriteLine("☺ - " + job.ToString());
+                Console.WriteLine(job.ToString());
             }
         }
     }
