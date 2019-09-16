@@ -46,19 +46,19 @@ namespace demoClassBehaviour
 
             result.Add(new Job
             {
-                Name = "Older female junior C# Developer",
+                Name = "Older C# Developer",
                 Employer = "Dnl-Core",
                 Location = "Waarder",
-                PositionType = "Fully unstuck developer",
+                PositionType = "Full stack developer",
                 CoreCompentency = "C#, ASP.NET"
             });
 
             result.Add(new Job
             {
-                Name = "Objective C hacker",
+                Name = "Objective C developer",
                 Employer = "Apple",
                 Location = "Cupertino",
-                PositionType = "Short stick developer",
+                PositionType = "Full stack developer",
                 CoreCompentency = "Objective C"
             });
 
